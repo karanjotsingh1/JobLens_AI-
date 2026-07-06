@@ -22,8 +22,6 @@ venv/
 .pytest_cache/
 .mypy_cache/
 
-# Model files
-*.pkl
 
 # Logs
 *.log
