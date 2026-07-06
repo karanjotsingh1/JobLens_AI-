@@ -1,0 +1,45 @@
+# ============================================================
+# JobLens AI — Requirements File
+# Install with: pip install -r requirements.txt
+# All libraries are FREE to use
+# ============================================================
+
+# --- Core LangChain + LangGraph (Agentic AI) ---
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-huggingface==0.1.2
+langgraph==0.2.45
+
+# --- Vector Store (RAG) ---
+faiss-cpu==1.9.0
+
+# --- PDF Reading ---
+pypdf==5.1.0
+
+# --- ML Model ---
+xgboost==2.1.1
+scikit-learn==1.5.2
+shap==0.46.0
+
+# --- Data Processing ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Web Search (Free - uses DuckDuckGo, no API key needed) ---
+duckduckgo-search==6.3.7
+
+# --- HuggingFace Embeddings (Free, no API key needed) ---
+sentence-transformers==3.2.1
+
+# --- Streamlit UI ---
+streamlit==1.40.1
+
+# --- Visualization ---
+matplotlib==3.9.2
+plotly==5.24.1
+plotly.express
+
+# --- Misc Utilities ---
+python-dotenv==1.0.1
+pydantic==2.9.2
