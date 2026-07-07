@@ -1,6 +1,7 @@
+<div align="center">
 # 💼 JobLens AI — Intelligent Career Intelligence Platform
 
-<div align="center">
+
 
 <br/>
 
@@ -265,7 +266,6 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 > XGBoost predicts top skills for Data Scientist (Fresher) with interactive demand chart
 
-![Skill Trends](screenshots/skill_trends.png)
 <img width="1470" height="810" alt="Screenshot 2026-07-06 at 10 03 33 PM" src="https://github.com/user-attachments/assets/a1fb7760-57e5-446d-aa1a-723776b57277" />
 
 ---
@@ -274,7 +274,6 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 > Resume uploaded, JD pasted → JD Match Score: 6.7%, 23 resume chunks indexed
 
-![Resume Analyser](screenshots/resume_analyser.png)
 <img width="1465" height="754" alt="Screenshot 2026-07-06 at 10 04 06 PM" src="https://github.com/user-attachments/assets/27f06014-c3e0-4988-b5a3-b21f9966fa23" />
 
 ---
@@ -283,7 +282,7 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 > User asked "What skills am I missing for ML Engineer role?" → Agent searched web, returned real YouTube and Coursera links
 
-![Career Coach](screenshots/career_coach.png)
+
 <img width="1122" height="785" alt="Screenshot 2026-07-06 at 10 05 44 PM" src="https://github.com/user-attachments/assets/58b53dc6-537d-49a0-ad50-51fff8b7e98d" />
 
 ---
@@ -292,7 +291,7 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 > Weak bullet "Worked on machine learning project" → 3 powerful ATS-optimised rewrites
 
-![Resume Rewriter](screenshots/resume_rewriter.png)
+
 <img width="1070" height="684" alt="Screenshot 2026-07-06 at 10 25 04 PM" src="https://github.com/user-attachments/assets/b20efda0-cac6-44ba-9dee-65d4242ef059" />
 
 ---
