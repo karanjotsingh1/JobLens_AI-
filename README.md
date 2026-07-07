@@ -1,8 +1,8 @@
-<div align="center">
+
 # 💼 JobLens AI — Intelligent Career Intelligence Platform
 
 
-
+<div align="center">
 <br/>
 
 **An end-to-end AI-powered career intelligence platform combining Machine Learning, RAG, and Agentic AI to help students and professionals optimise their resumes, identify skill gaps, and accelerate their career growth.**
