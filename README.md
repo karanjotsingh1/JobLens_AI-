@@ -456,7 +456,6 @@ The task is structured tabular classification: two categorical inputs (role + le
 ## 👨‍💻 Author
 
 **Karan** — 3rd Year B.Tech Computer Science, Thapar University  
-Built during internship at Indian Express Data Centre
 
 ---
 
